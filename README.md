@@ -2,7 +2,7 @@
 
 A PyTorch detector that classifies images as **real** or **AI-generated** by combining three kinds of evidence: semantic features, frequency-domain features and noise-residual features. It outputs a label, a calibrated confidence and the weight the model gave to each branch.
 
-**Team:** CS24B1007 Maneesha · CS24B1014 Roshitha · CS24B1026 Sathwika · CS24B1070 Havila
+**Team:** CS24B1007 Maneesha · CS24B1014 Rishitha · CS24B1026 Sathwika · CS24B1070 Havila
 
 ---
 
