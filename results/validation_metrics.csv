@@ -1,0 +1,2 @@
+n,acc,auc,ap,f1,tpr_at_1pct_fpr,real_acc,ai_acc,temperature,ece_raw,ece_calibrated
+1986,0.9491,0.9885,0.988,0.9495,0.7905,0.9426,0.9557,1.353,0.0272,0.0134

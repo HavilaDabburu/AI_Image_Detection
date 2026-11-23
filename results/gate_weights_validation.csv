@@ -1,0 +1,13 @@
+label,generator,clip,fft,noise
+AI,adm,0.098,0.051,0.851
+AI,glide,0.995,0.001,0.005
+AI,stable_diffusion_v_1_4,0.996,0.001,0.004
+AI,stable_diffusion_v_1_5,0.994,0.001,0.005
+AI,vqdm,0.996,0.001,0.004
+AI,wukong,0.992,0.001,0.007
+Real,adm,0.996,0.002,0.002
+Real,glide,0.997,0.001,0.002
+Real,stable_diffusion_v_1_4,0.995,0.002,0.003
+Real,stable_diffusion_v_1_5,0.995,0.001,0.004
+Real,vqdm,0.997,0.001,0.002
+Real,wukong,0.997,0.001,0.002

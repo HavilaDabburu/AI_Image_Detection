@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers>=4.45,<5
+safetensors
+numpy
+pandas
+scikit-learn
+matplotlib
+pillow
+tqdm
+ipython
+jupyter
